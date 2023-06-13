@@ -1,5 +1,5 @@
 # laravel-query-astro
-Laravel采集每日星座运势，使用overtrue/php-opencc转为简体入库
+Laravel采集每日星座运势，由于目标语言是台湾正文，所以使用[Overtrue\PHPOpenCC](https://github.com/overtrue/php-opencc)转为简体入库
 
 ## 安装
 
