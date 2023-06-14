@@ -6,9 +6,9 @@ Laravel采集每日星座运势，由于目标语言是台湾正体，所以使�
 ```shell
 $ cp .env.example .env
 
-$ php artisan key:gen
-
 $ composer install
+
+$ php artisan key:gen
 
 $ php artisan migrate
 ```
